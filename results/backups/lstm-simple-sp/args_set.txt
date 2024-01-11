@@ -1,0 +1,42 @@
+use_sp_data : True : <class 'bool'>
+fineg : False : <class 'bool'>
+rel_dic : {'contains': 0, 'constrains': 1} : <class 'dict'>
+full_mode : complex : <class 'str'>
+model_name : lstm : <class 'str'>
+topk : 6 : <class 'int'>
+class_num : 23 : <class 'int'>
+learning_r : 0.0001 : <class 'float'>
+embed_path : ../embeddings/glove_300d.txt : <class 'str'>
+embed_dim : 300 : <class 'int'>
+epoch_num : 3 : <class 'int'>
+data_split : (0.8, 0.2) : <class 'tuple'>
+max_len : 45 : <class 'int'>
+tensor_max_len : 10 : <class 'int'>
+train_emebd : False : <class 'bool'>
+out_size : 300 : <class 'int'>
+neg_ratio : 2 : <class 'int'>
+batch_size : 256 : <class 'int'>
+loss_func : margin_loss : <class 'str'>
+dropout : 0.1 : <class 'float'>
+cuda : True : <class 'bool'>
+num_worker : 0 : <class 'int'>
+batch_norm : False : <class 'bool'>
+mlp_layer_dims : [512, 256] : <class 'list'>
+lstm_hs : 512 : <class 'int'>
+lstm_layer : 2 : <class 'int'>
+direction : True : <class 'bool'>
+cnn_st : 1 : <class 'int'>
+cnn_inc : 1 : <class 'int'>
+cnn_filters : [(1, 8, 5), (1, 4, 25), (1, 2, 45)] : <class 'list'>
+bert_heads : 4 : <class 'int'>
+bert_pos_dim : 64 : <class 'int'>
+bert_inter_dim : 1024 : <class 'int'>
+bert_hidden_dim : 256 : <class 'int'>
+bert_layer_num : 4 : <class 'int'>
+bert_name : deberta : <class 'str'>
+use_trans : False : <class 'bool'>
+use_gnn : False : <class 'bool'>
+gnn_conv_ch : 3 : <class 'int'>
+gnn_heads : 2 : <class 'int'>
+nhop : 1 : <class 'int'>
+gat_alpha : 0.1 : <class 'float'>

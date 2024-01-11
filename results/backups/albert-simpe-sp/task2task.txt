@@ -1,0 +1,23 @@
+board pretreatment and punching--NA
+2d panel assembly--NA
+butt weld and fillet weld--NA
+3d assembly--NA
+apply fire paint at strucutral member--NA
+rebar fixing--NA
+pouring concrete--NA
+door ironmongery and windows installation--door ironmongery installation;window ironmongery installation
+door and window frame installation--door frame installation;window frame installation
+installation of gypsum board at wall surface--NA
+installation of mep conduit at wall surface--NA
+stud installation at wall--NA
+rockwool infill and 2 layer of fire board installation at wall surface--rockwool infill at wall;fire board installation at wall
+stud installation at ceiling--NA
+rockwool infill and fire board installation at ceiling surface--rockwool infill at ceiling;fire board installation at ceiling
+layer and coat painting--layer and coat painting at wall;layer and coat painting at ceiling
+installation of lighting--NA
+electrical cable wiring--NA
+installation of mep trunking at ceiling--NA
+installation of sprinkler pipes--NA
+window type ac installation--NA
+installation of vinyl floor and skirting--NA
+cabinets installation--NA

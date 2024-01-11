@@ -1,0 +1,205 @@
+node,type
+Board pretreatment and punching,task
+Butt weld and fillet weld,task
+Installation of MEP conduit at wall surface,task
+Window type AC installation,task
+Installation of Vinyl floor and skirting,task
+Pouring Concrete,task
+Apply fire paint at strucutral member,task
+Stud installation at ceiling,task
+Window frame installation,task
+Layer and coat painting at ceiling,task
+Rebar Fixing,task
+3D assembly,task
+Electrical Cable Wiring,task
+Window ironmongery installation,task
+Fire board installation at wall,task
+Installation of gypsum board at wall surface,task
+Installation of sprinkler pipes,task
+Cabinets installation,task
+Layer and coat painting at wall,task
+Door ironmongery installation,task
+Rockwool in-fill at wall,task
+Installation of lighting,task
+2D panel assembly ,task
+Installation of MEP trunking at ceiling,task
+Stud installation at wall,task
+Rockwool in-fill at ceiling,task
+Door frame installation,task
+Fire board installation at ceiling,task
+none,spatial
+floor plane,spatial
+ceiling plane,spatial
+mep interface;ceiling plane,spatial
+door interface,spatial
+mep interface;wall plane,spatial
+mep interface,spatial
+room space,spatial
+mep interface;window interface,spatial
+wall plane,spatial
+plane,spatial
+window interface,spatial
+0,package
+1,package
+2,package
+3,package
+4,package
+5,package
+6,package
+7,package
+8,package
+9,package
+10,package
+11,package
+12,package
+Gemtree FRP Board,product
+Cement Board,product
+Lysaght Bondek,product
+Knauf FRP Board,product
+Gypsum Board,product
+Promatect HBoard,product
+Composite floor slab,product
+Corrugated profile,product
+Shear stud,product
+Welding Electrode,product
+Electrode,product
+metal pencil,product
+Welding rod,product
+Corner Casting,product
+Steel floor beam,product
+Steel Column,product
+Steel ceiling beam,product
+Steel Angle,product
+Steel Purlins,product
+Firecut FM-900 paint,product
+Firecut paint,product
+Fire protection paint,product
+Tie Wire,product
+Rebar,product
+Spacer,product
+Steel Reinforcement Bar,product
+Bar Chair,product
+Reinforcement Bar,product
+Concrete addings,product
+Concrete mixture,product
+Concrete,product
+Non-shrink Grout,product
+Door Ironmongery,product
+Latches,product
+Handle,product
+Timber Door,product
+Non-FRP Timber Door,product
+Hinge,product
+FRP Timber Door,product
+Latches,product
+Aluminium Window,product
+Glass Panel,product
+Handle,product
+Hinge,product
+Door Frame,product
+Door threshold,product
+Acoustic Insulation,product
+Hardwood Solid Core Flush Doors,product
+Overhead Door Closer,product
+Rockwool Acoustic Insulation,product
+Aluminium Cladding,product
+Rockwool Acoustic Insulation,product
+Aluminium Cladding,product
+Acoustic Insulation,product
+Laminates,product
+Laminate for wall finsishes,product
+Gypsum Board,product
+Finishings,product
+uPVC Conduits and Fittings,product
+Flexible Conduit,product
+uPVC Conduits,product
+Condiuts and Accessories,product
+Conduit,product
+MEP Conduit,product
+Shear stud,product
+Runners,product
+Track,product
+Noggins and Braces,product
+Wall panel,product
+Channel,product
+Wall Tiles,product
+Metal Skeleton,product
+Rockwool,product
+Mineral Wool Insulation,product
+Promatect Hboard,product
+Gemtree Board,product
+Gemtree FRP Board,product
+Shear stud,product
+Runners,product
+Track,product
+Noggins and Braces,product
+ceiling panel,product
+Channel,product
+Wall Tiles,product
+Metal Skeleton,product
+Rockwool,product
+Mineral Wool Insulation,product
+Promatect Hboard,product
+Gemtree Board,product
+Gemtree FRP Board,product
+Emulsion Paint,product
+Anti-mould Emulsion Paint,product
+Emulsion ,product
+Emulsion Paint,product
+Anti-mould Emulsion Paint,product
+Emulsion ,product
+Battery Lighting Fittings,product
+Flexible Conduit,product
+Label,product
+Wiring Accessories,product
+Weather Wiring Accessories,product
+Lightings,product
+Cable Trunking,product
+Lighting Fittings,product
+PVC cable,product
+Cable Tray,product
+PVC copper cable,product
+SWA copper cable,product
+Non-Armoured Cable,product
+Amoured wiring,product
+Copper Pipes,product
+Epoxy Coated Cast iron Pipes,product
+Cable Trunking,product
+Epoxy Coated Cast Fittings,product
+Epoxy ,product
+uPVC Pipes,product
+uPVC Fittings,product
+Epoxy pipes,product
+Galvanized Steel Pipes Fittings,product
+Sprinkler Heads,product
+Smoke Detectors,product
+Grooved Pipe Fittings,product
+Fire Alarm Bells,product
+Fire Detector,product
+Grooved Couplings,product
+Galvanized Steel Pipes,product
+Fire Alarm,product
+Air Diffuser,product
+AC,product
+Rubber Vibration Isolators,product
+Air Grilles / Diffuser,product
+Carbon Filter,product
+Window type AC,product
+Air Grilles,product
+Activated Carbon Filter,product
+Spring Vibration Isolators,product
+Ventilation fan,product
+Air filters,product
+PVC Sheet Vinyl,product
+Porcelain Floor Tiles,product
+PVC skirting with timber parttern,product
+Non-slip PVC Sheet Vinyl,product
+Homogeneous Skirting Tile,product
+Coved Homogeneous Skirting Tile,product
+PVC skirting,product
+Toilet-Sink Cabinet,product
+Cabinets,product
+TV Cabinet,product
+Wall Cabinet,product
+Toilet cabinet,product
+Sink Cabinet,product

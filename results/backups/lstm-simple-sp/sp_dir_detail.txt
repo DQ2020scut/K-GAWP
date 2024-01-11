@@ -1,0 +1,28 @@
+board pretreatment and punching--none
+2d panel assembly--plane
+butt weld and fillet weld--none
+3d assembly--room space
+apply fire paint at strucutral member--room space
+rebar fixing--none
+pouring concrete--none
+door ironmongery installation--door interface
+window ironmongery installation--window interface
+door frame installation--door interface
+window frame installation--window interface
+installation of gypsum board at wall surface--wall plane
+installation of mep conduit at wall surface--mep interface;wall plane
+stud installation at wall--wall plane
+rockwool in-fill at wall--wall plane
+fire board installation at wall--wall plane
+stud installation at ceiling--ceiling plane
+rockwool in-fill at ceiling--ceiling plane
+fire board installation at ceiling--ceiling plane
+layer and coat painting at wall--wall plane
+layer and coat painting at ceiling--ceiling plane
+installation of lighting--mep interface
+electrical cable wiring--mep interface
+installation of mep trunking at ceiling--mep interface;ceiling plane
+installation of sprinkler pipes--mep interface
+window type ac installation--mep interface;window interface
+installation of vinyl floor and skirting--floor plane
+cabinets installation--room space

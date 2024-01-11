@@ -1,0 +1,152 @@
+product,spatial
+Gemtree FRP Board,none
+Cement Board,none
+Lysaght Bondek,none
+Knauf FRP Board,none
+Gypsum Board,none
+Promatect HBoard,none
+Composite floor slab,plane
+Corrugated profile,plane
+Shear stud,plane
+Welding Electrode,none
+Electrode,none
+metal pencil,none
+Welding rod,none
+Corner Casting,room space
+Steel floor beam,room space
+Steel Column,room space
+Steel ceiling beam,room space
+Steel Angle,room space
+Steel Purlins,room space
+Firecut FM-900 paint,room space
+Firecut paint,room space
+Fire protection paint,room space
+Tie Wire,none
+Rebar,none
+Spacer,none
+Steel Reinforcement Bar,none
+Bar Chair,none
+Reinforcement Bar,none
+Concrete addings,none
+Concrete mixture,none
+Concrete,none
+Non-shrink Grout,none
+Door Ironmongery,door interface
+Latches,door interface
+Handle,door interface
+Timber Door,door interface
+Non-FRP Timber Door,door interface
+Hinge,door interface
+FRP Timber Door,door interface
+Latches,window interface
+Aluminium Window,window interface
+Glass Panel,window interface
+Handle,window interface
+Hinge,window interface
+Door Frame,door interface
+Door threshold,door interface
+Acoustic Insulation,door interface
+Hardwood Solid Core Flush Doors,door interface
+Overhead Door Closer,door interface
+Rockwool Acoustic Insulation,door interface
+Aluminium Cladding,door interface
+Rockwool Acoustic Insulation,window interface
+Aluminium Cladding,window interface
+Acoustic Insulation,window interface
+Laminates,wall plane
+Laminate for wall finsishes,wall plane
+Gypsum Board,wall plane
+Finishings,wall plane
+uPVC Conduits and Fittings,mep interface;wall plane
+Flexible Conduit,mep interface;wall plane
+uPVC Conduits,mep interface;wall plane
+Condiuts and Accessories,mep interface;wall plane
+Conduit,mep interface;wall plane
+MEP Conduit,mep interface;wall plane
+Shear stud,wall plane
+Runners,wall plane
+Track,wall plane
+Noggins and Braces,wall plane
+Wall panel,wall plane
+Channel,wall plane
+Wall Tiles,wall plane
+Metal Skeleton,wall plane
+Rockwool,wall plane
+Mineral Wool Insulation,wall plane
+Promatect Hboard,wall plane
+Gemtree Board,wall plane
+Gemtree FRP Board,wall plane
+Shear stud,ceiling plane
+Runners,ceiling plane
+Track,ceiling plane
+Noggins and Braces,ceiling plane
+ceiling panel,ceiling plane
+Channel,ceiling plane
+Wall Tiles,ceiling plane
+Metal Skeleton,ceiling plane
+Rockwool,ceiling plane
+Mineral Wool Insulation,ceiling plane
+Promatect Hboard,ceiling plane
+Gemtree Board,ceiling plane
+Gemtree FRP Board,ceiling plane
+Emulsion Paint,wall plane
+Anti-mould Emulsion Paint,wall plane
+Emulsion ,wall plane
+Emulsion Paint,ceiling plane
+Anti-mould Emulsion Paint,ceiling plane
+Emulsion ,ceiling plane
+Battery Lighting Fittings,mep interface
+Flexible Conduit,mep interface
+Label,mep interface
+Wiring Accessories,mep interface
+Weather Wiring Accessories,mep interface
+Lightings,mep interface
+Cable Trunking,mep interface
+Lighting Fittings,mep interface
+PVC cable,mep interface
+Cable Tray,mep interface
+PVC copper cable,mep interface
+SWA copper cable,mep interface
+Non-Armoured Cable,mep interface
+Amoured wiring,mep interface
+Copper Pipes,mep interface;ceiling plane
+Epoxy Coated Cast iron Pipes,mep interface;ceiling plane
+Cable Trunking,mep interface;ceiling plane
+Epoxy Coated Cast Fittings,mep interface;ceiling plane
+Epoxy ,mep interface;ceiling plane
+uPVC Pipes,mep interface;ceiling plane
+uPVC Fittings,mep interface;ceiling plane
+Epoxy pipes,mep interface;ceiling plane
+Galvanized Steel Pipes Fittings,mep interface
+Sprinkler Heads,mep interface
+Smoke Detectors,mep interface
+Grooved Pipe Fittings,mep interface
+Fire Alarm Bells,mep interface
+Fire Detector,mep interface
+Grooved Couplings,mep interface
+Galvanized Steel Pipes,mep interface
+Fire Alarm,mep interface
+Air Diffuser,mep interface;window interface
+AC,mep interface;window interface
+Rubber Vibration Isolators,mep interface;window interface
+Air Grilles / Diffuser,mep interface;window interface
+Carbon Filter,mep interface;window interface
+Window type AC,mep interface;window interface
+Air Grilles,mep interface;window interface
+Activated Carbon Filter,mep interface;window interface
+Spring Vibration Isolators,mep interface;window interface
+Ventilation fan,mep interface;window interface
+Air filters,mep interface;window interface
+PVC Sheet Vinyl,floor plane
+Porcelain Floor Tiles,floor plane
+PVC skirting with timber parttern,floor plane
+Non-slip PVC Sheet Vinyl,floor plane
+Homogeneous Skirting Tile,floor plane
+Coved Homogeneous Skirting Tile,floor plane
+PVC skirting,floor plane
+Toilet-Sink Cabinet,room space
+Cabinets,room space
+TV Cabinet,room space
+Wall Cabinet,room space
+Toilet cabinet,room space
+Sink Cabinet,room space

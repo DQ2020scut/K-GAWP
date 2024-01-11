@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//models/transformers/configuration_utils.py=utf-8
+encoding//models/transformers/models/deberta/configuration_deberta.py=utf-8
+encoding//models/transformers/models/deberta/modeling_deberta.py=utf-8
+encoding//models/transformers/utils/logging.py=utf-8
+encoding//pytorch_pretrained/modeling.py=utf-8
+encoding//pytorch_pretrained/modeling_openai.py=utf-8
+encoding//pytorch_pretrained/tokenization_gpt2.py=utf-8
